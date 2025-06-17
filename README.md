@@ -12,7 +12,7 @@ Alunas:
 - Beatriz Emmanuele Ferreira do Nascimento
 
 ### Vídeo de Apresentação
-Link: Adicionar !!
+Link: https://drive.google.com/file/d/1KEyUxC4-hLdNkKudYpGjYTvhR5q6yRmf/view?usp=drive_link
 
 ### Streamlit
 Link: https://diario-emocional-com-ia.streamlit.app
@@ -30,6 +30,7 @@ Link: https://diario-emocional-com-ia.streamlit.app
 - Python
 - Streamlit
 - API do Google Gemini
+- Pandas
 
 ## Instalação
 **Dica**: Para facilitar a instalação do projeto, utilize a documentação oficial do **[Streamlit](https://docs.streamlit.io)**.
